@@ -1,4 +1,4 @@
-var lastName = 'yourlastname'
+var lastName = 'Lindroos'
 
 @description('Environment of the web app')
 param environment string = 'dev'
